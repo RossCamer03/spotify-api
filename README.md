@@ -1,4 +1,5 @@
-## 3307B Project (Application)
+## Spotify Remote Application
+C++ application that allows users to remotely manage their Spotify account. Features include play/pause, queue management, and song skipping via an independent interface.
 
 ## Steps to compile application
 qmake app.pro
